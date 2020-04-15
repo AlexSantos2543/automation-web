@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef9d037-32d4-4d99-94bf-4be088754079" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/1831b01eb3cbcaab3fac5ae556d5bb40ec5e8916" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27ad44eb8810ddb342d34e3c5d8b2284199e3859" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4028e476edbd45c078e77af08f6e1a954c1c60d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52c304e24fe0ba81f0150206ccfda7ac8c43a67a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7dacb0e4358629b0b72d70367392db4d03c7d7f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80730974506d8e6ffa11bad9a9a4c64f841facf8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14fcde29aec754c1bd998bc98a1c4f33e6076c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b442cdc0dddf30bdb4c9b221c559f6abc921e3b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7a0b3ac1e50720bee8b46313e283dec6ce97f40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca572079fd1b296c24d9487c8d96ad385af706d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d750846d1a8e24dccfbd0231c670cae5bea03f9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/efd5bb273fafdbecdbb92eaad7aa74971505ac40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbf0e008a085598a5b7c40cb031aa17cd66df24c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/BcdApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/DevBcdEnvironment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/WebApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/WebApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TestConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TestConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/PageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/PageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/steps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/steps/LoginSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/BcdApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/app/CompanyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/DevBcdEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/app/DevEnvironment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/PageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/PageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/LoginSteps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aMSMkO0YcpMz8EWjvU6kMr7dAi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.automation.web.browsers" />
+      <recent name="com.automation.web.app" />
+      <recent name="com.automation.web.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/app" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run-test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features" />
+      <option name="GLUE" value="com.automation.web.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automation-project.main" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev,chrome -Djava.util.logging.config.file=logging.properties -Dcucumber.options=&quot;--tags @Test1234&quot; -Ddriver.isHub=false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef9d037-32d4-4d99-94bf-4be088754079" name="Default Changelist" comment="" />
+      <created>1586543923428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586543923428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="44" width="1440" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587146740291">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="0" y="44" width="1440" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1587022303019" />
+    <state x="225" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1586761294436" />
+    <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1587146740291" />
+    <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1586968367959" />
+    <state x="425" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586552960037">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="425" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1586552960037" />
+    <state x="522" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1586549306881">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="522" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1586549306881" />
+    <state x="462" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587032428280">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="462" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.832@0.23.1440.832" timestamp="1587032428279" />
+    <state x="447" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586551030650">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="447" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1586551030650" />
+    <state x="472" y="265" width="615" height="461" key="#xdebugger.evaluate" timestamp="1587371689568">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="472" y="265" width="615" height="461" key="#xdebugger.evaluate/0.23.1440.829@0.23.1440.829" timestamp="1587371689568" />
+    <state x="497" y="199" key="FileChooserDialogImpl" timestamp="1586551559559">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="497" y="199" key="FileChooserDialogImpl/0.23.1440.829@0.23.1440.829" timestamp="1586551559559" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom" timestamp="1587371631514">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586966104219" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587026397337" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587371631514" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587149157116" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587223721086" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
+    <state width="1377" height="251" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1587021689243" />
+    <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center" timestamp="1587371631513">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586966104218" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587026397336" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587371631513" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587149157115" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587223721083" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
+    <state width="1377" height="251" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1587021689242" />
+    <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left" timestamp="1587371631513">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586966104217" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587026397336" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587371631513" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587149157114" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587223721078" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587149033541" />
+    <state width="1377" height="251" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1587021689241" />
+    <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1587021699845" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right" timestamp="1587371631514">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586966104219" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587026397337" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587371631514" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587149157115" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587223721085" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
+    <state width="1377" height="251" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1587021689242" />
+    <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom" timestamp="1587371632950">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586966106295" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587026397338" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587371632950" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587149159156" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587223721090" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
+    <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587021701731" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center" timestamp="1587371632949">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586966106294" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1587026397337" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1587371632949" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1587149159155" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1587223721089" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
+    <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left" timestamp="1587371632949">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586966106293" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1587026397337" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1587371632949" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1587149159155" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1587223721088" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1587149035313" />
+    <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right" timestamp="1587371632950">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586966106295" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1587026397337" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1587371632950" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1587149159156" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1587223721090" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
+    <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
+    <state x="218" y="77" key="SettingsEditor" timestamp="1586965635793">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="218" y="77" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1586965635792" />
+    <state x="376" y="194" width="667" height="486" key="find.popup" timestamp="1587371556216">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="376" y="194" width="667" height="486" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1586944580481" />
+    <state x="376" y="194" width="667" height="486" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1587371556216" />
+    <state x="376" y="194" width="667" height="488" key="find.popup/0.23.1440.830@0.23.1440.830" timestamp="1587146801715" />
+    <state x="376" y="194" width="667" height="490" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1587148607487" />
+    <state x="376" y="195" width="667" height="490" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1587021899889" />
+    <state x="395" y="176" width="670" height="676" key="search.everywhere.popup" timestamp="1586545686199">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="395" y="176" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1586545686199" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/steps/LoginSteps.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/CucumberTypeRegistryConfiguration.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/BcdService.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DevEnvironment.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/CompanyApp.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/BcdService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/helpers/GenericsHelper.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DevEnvironment.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
