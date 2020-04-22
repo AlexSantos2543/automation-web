@@ -1,0 +1,17 @@
+{
+  "register-terms-and-conditions": "terms \u0026 conditions",
+  "forgot-password-success-message": "An email has been sent to",
+  "authentication-login-error": "The username and/or password entered is incorrect.",
+  "register-sign-me-up": "Sign Me Up",
+  "register-accept-terms": "I agree with",
+  "register-validation-max-char-count": "25 character limit",
+  "forgot-password-success-header": "Sent!",
+  "register-validation-number": "1 number",
+  "register-validation-min-char-count": "8 characters minimum",
+  "register-privacy-policy": "privacy policy",
+  "#REGISTER": "en",
+  "#sheet_Translation": "en",
+  "register-enter-email": "Enter the email address you use to make business travel reservations.",
+  "register-validation-lowercase": "1 lowercase character",
+  "register-validation-uppercase": "1 uppercase character"
+}

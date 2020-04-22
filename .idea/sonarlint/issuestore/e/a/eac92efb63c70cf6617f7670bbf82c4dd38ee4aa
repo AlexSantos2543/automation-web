@@ -1,5 +1,7 @@
 
-bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(Š•…Ï
-bsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Íð¶Ý
-gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ÜîëÚøÿÿÿÿ
-gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¨ðÔíøÿÿÿÿ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¨ðÔíøÿÿÿÿ
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(Š•…Ï
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Íð¶Ý
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ÜîëÚøÿÿÿÿ
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8Ü€ÚÑœ.
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(È£›¬ùÿÿÿÿ8Ü€ÚÑœ.

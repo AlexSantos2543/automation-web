@@ -1,5 +1,4 @@
 
-Qsquid:S3516Ã"9Refactor this method to not always return the same value.(ÆÙ®†
 gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ÏáÝïúÿÿÿÿ
-]squid:S2147ö"ECombine this catch with the one at line 242, which has the same body.(ÀŒÂã
 =squid:S1172:"&Remove these unused method parameters.(Ü™¬–
+]squid:S2147ö"ECombine this catch with the one at line 242, which has the same body.(ÀŒÂã

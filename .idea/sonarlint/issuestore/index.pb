@@ -47,9 +47,23 @@ h
 8src/main/java/com/automation/web/pages/LoginSsoPage.java,0/f/0f29e876c2862c443dd888c1abd3f6a7e31b8e44
 s
 Csrc/main/java/com/automation/web/config/WebDriverConfiguration.java,e/a/eac92efb63c70cf6617f7670bbf82c4dd38ee4aa
-f
-6src/main/java/com/automation/web/steps/LoginSteps.java,d/b/db93e54b8361cf8348d52ed9e8287649c25fbdae
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 n
 >src/main/java/com/automation/web/config/TestConfiguration.java,b/0/b06e137f86e2f64c82f8117774d6c33fa1582092
+q
+Asrc/main/java/com/automation/web/translationi18n/DefaultI18n.java,0/7/076e1130857417df23b30b6037280eab8d73b364
+m
+=src/main/java/com/automation/web/config/TranslationsMain.java,b/2/b28a4c086063a3ccef6fbd7f6420b052aef55e51
+j
+:src/main/java/com/automation/web/steps/MainGooglePage.java,4/e/4ec306b8d207ccaa135112fd5432b1c850f4d735
+z
+Jsrc/main/java/com/automation/web/translationi18n/GoogleSheetsDocument.java,5/a/5a8402d2eda55da877baae1c773bdf4bb53866f8
+x
+Hsrc/main/java/com/automation/web/translationi18n/JsonStorageFactory.java,d/a/da3d0acd0c77f30924dc99146f8045d56ab6fb98
+`
+0src/main/java/com/automation/web/setup/I18n.java,1/0/10b5e29c590d7e461f67cc2077e0e173aa55b3eb
+`
+0src/main/java/com/automation/web/app/WebApp.java,0/c/0c85adda9da69f3eca4b1c1e7a1426dbb27ac8d3
+l
+<src/main/java/com/automation/web/helpers/GenericsHelper.java,4/7/47319698192c70561d8ade12c309f23ab118960b

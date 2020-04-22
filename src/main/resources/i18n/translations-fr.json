@@ -1,0 +1,17 @@
+{
+  "register-terms-and-conditions": "Conditions d\u0027utilisation",
+  "forgot-password-success-message": "Un e-mail a été envoyé à",
+  "authentication-login-error": "Le nom d’utilisateur et (ou) le mot de passe saisi est incorrect.",
+  "register-sign-me-up": "Inscrivez-moi",
+  "register-accept-terms": "Je suis d’accord",
+  "register-validation-max-char-count": "limite de 25 caractères",
+  "forgot-password-success-header": "Envoyé !",
+  "register-validation-number": "1 chiffre",
+  "register-validation-min-char-count": "8 caractères minimum",
+  "register-privacy-policy": "Politique de confidentialité",
+  "#REGISTER": "fr",
+  "#sheet_Translation": "fr",
+  "register-enter-email": "Saisissez l’e-mail que vous utilisez pour effectuer vos réservations de voyages d’affaires.",
+  "register-validation-lowercase": "1 caractère en minuscule",
+  "register-validation-uppercase": "1 caractère en majuscule"
+}

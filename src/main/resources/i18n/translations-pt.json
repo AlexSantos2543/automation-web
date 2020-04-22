@@ -1,0 +1,17 @@
+{
+  "register-terms-and-conditions": "Termos e Condições",
+  "forgot-password-success-message": "Um e-mail foi enviado para",
+  "authentication-login-error": "O nome de usuário e/ou senha inseridos estão incorretos.",
+  "register-sign-me-up": "Inscrever-me",
+  "register-accept-terms": "Eu concordo com",
+  "register-validation-max-char-count": "25 caracteres, no máximo",
+  "forgot-password-success-header": "Enviado!",
+  "register-validation-number": "1 número",
+  "register-validation-min-char-count": "8 caracteres, no mínimo",
+  "register-privacy-policy": "Política de Privacidade",
+  "#REGISTER": "pt-br",
+  "#sheet_Translation": "pt",
+  "register-enter-email": "Insira o e-mail que você usa para reservar viagens de negócios.",
+  "register-validation-lowercase": "1 letra minúscula",
+  "register-validation-uppercase": "1 letra maiúscula"
+}

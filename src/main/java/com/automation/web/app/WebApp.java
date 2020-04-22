@@ -1,7 +1,5 @@
 package com.automation.web.app;
 
-import com.automation.web.interaction.Url;
-import com.automation.web.pageobjects.PageObject;
 import com.automation.web.pageobjects.factory.Fragment;
 import lombok.extern.java.Log;
 

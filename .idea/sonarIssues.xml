@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -108,6 +118,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/config/TranslationMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/config/TranslationsMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/config/Wait.java">
           <value>
             <set />
@@ -119,6 +139,71 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/exceptions/FailedToLoadPageException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/helpers/GenericsHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/DefaultI18n.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/GoogleSheetDoc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/GoogleSheetsDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/JsonFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/JsonStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/JsonStorageFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/NoSuchLanguageException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/NoTranslationsException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/Storage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/TranslationSheetSchema.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/TranslationStorageFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/i18n/TranslationsSheet.java">
           <value>
             <set />
           </value>
@@ -188,7 +273,92 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/DefaultI18n.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/GoogleSheetsDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/Language.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/NoSuchLanguageException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/NoTranslationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/PropertiesStorageFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/PropertiesStorages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/SingleStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/Storage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/TranslationSheetSchema.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/TranslationStorageFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/TranslationsMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/TranslationsSheet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/credentials (1).json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/credentials.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/env/dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/env/uat.properties">
           <value>
             <set />
           </value>
@@ -198,7 +368,92 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/i18n/translations-en.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/build/reports/tests/apiTest/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/main/java/com/tdl/bcd/automation/api/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/main/java/com/tdl/bcd/automation/api/cars/CarClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/test/java/com/tdl/bcd/automation/TestBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/test/java/com/tdl/bcd/automation/TestCarBookingUIHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/test/java/com/tdl/bcd/automation/TestFlightBooking.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-api/src/test/java/com/tdl/bcd/automation/TestRiskAlert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/jenkins/nightly-master.pipeline">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/data/Timeline.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/AccountWebViewPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/AccountWebViewPageUi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/AccountWebViewPageValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/UserAccountPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/UserAccountPageUi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/UserAccountPageValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/pages/account/WebViewPageValidator.java">
           <value>
             <set />
           </value>
@@ -213,12 +468,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/steps/AccountSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/java/com/tdl/bcd/automation/mobile/steps/setup/Hooks.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/resources/config/builds.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/resources/env/dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/resources/features/validation/login-registration/Forgot_Password.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/resources/features/validation/user-account/Profile_Section_Loyalty_Programs.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-native/src/main/resources/features/validation/user-account/Profile_Section_Payments.feature">
           <value>
             <set />
           </value>
