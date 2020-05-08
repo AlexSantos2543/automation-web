@@ -1,0 +1,13 @@
+.idea/
+*.iml
+target
+build
+classes
+out
+*.log
+*.txt
+**/.DS_Store
+.gradle
+app/
+composite_build.gradle
+**/mocked_trips/updated

@@ -1,11 +1,9 @@
 pipeline {
          agent any
          stages {
-                 stage('One') {
-                 steps {
-                     echo 'Hi, this is Zulaikha from edureka'
-                 }
-                 }
+            stage('Clone sources') {
+                  git url: 'https://github.com/jfrogdev/project-examples.git'
+              }
                  stage('Two') {
                  steps {
                     input('Do you want to proceed?')
