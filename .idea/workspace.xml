@@ -10,36 +10,64 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21f2d63480a4e99a7518e7a1b27a3f6d2d1d80e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21f2d63480a4e99a7518e7a1b27a3f6d2d1d80e6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7ad86847ce7c7b97a6f113bcda804c7330d4ce0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7ad86847ce7c7b97a6f113bcda804c7330d4ce0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db93e54b8361cf8348d52ed9e8287649c25fbdae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eac92efb63c70cf6617f7670bbf82c4dd38ee4aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eac92efb63c70cf6617f7670bbf82c4dd38ee4aa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/CompanyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/CompanyApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/WebApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/app/WebApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/Hook.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TestConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TestConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TranslationsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/TranslationsMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/steps/LoginSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/google_sheets_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/google_sheets_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/WebDriverConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/config/WebDriverConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/exceptions/FailedToLoadPageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/exceptions/FailedToLoadPageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/interaction/ScrollOffsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/interaction/ScrollOffsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/interaction/Url.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/PageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/PageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/UiFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/UiFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/Validate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/ValidateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/Validator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/Validator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/factory/FieldInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/factory/FieldInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pageobjects/factory/Fragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPageUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPageUi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPageValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/pages/LoginSsoPageValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/setup/I18n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/setup/Language.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/setup/TextProcessingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/steps/MainGooglePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automation/web/steps/MainGooglePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/features/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/translations-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/translations-de.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/translations-en.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/translations-en.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/translations-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/translations-es.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/translations-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/translations-fr.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/translations-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/translations-pt.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/google_sheets_tokens/StoredCredential" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/CompanyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/config/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/config/Hook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TranslationsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/config/TranslationsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/GoogleSheetsDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/GoogleSheetsDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/google_sheets_credentials.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/translations-de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/translations-en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/translations-es.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/translations-fr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/translations-pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/exceptions/FailedToLoadPageException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/exceptions/FailedToLoadPageException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/interaction/ScrollOffSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/interaction/ScrollOffsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/interaction/Url.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/NotDecorated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/PageObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/UiFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/Validate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/ValidateElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/FieldInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pages/LoginSsoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pages/LoginSsoPageUi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/pages/LoginSsoPageValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/setup/I18n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/setup/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/setup/TextProcessingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/test.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,25 +101,26 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/automation/web/interaction" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n" />
-      <recent name="$PROJECT_DIR$/google_sheets_tokens" />
-      <recent name="$PROJECT_DIR$/src/main/resources/i18n" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.automation.web.steps" />
       <recent name="com.automation.web.browsers" />
       <recent name="com.automation.web.app" />
       <recent name="com.automation.web.config" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/interaction" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/pages" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/app" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects" />
     </key>
   </component>
   <component name="RunManager" selected="Cucumber java.run-test">
@@ -118,6 +147,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features" />
+      <option name="GLUE" value="com.automation.web.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automation-project.main" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev,chrome -Djava.util.logging.config.file=logging.properties -Dcucumber.options=&quot;--tags @Test1234&quot; -Ddriver.isHub=false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TranslationsMain" />
+      <item itemvalue="Cucumber java.test" />
+      <item itemvalue="Cucumber java.run-test" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TranslationsMain" />
@@ -150,34 +194,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="45" width="1440" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588325206152">
+    <state x="0" y="45" width="1440" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590004028340">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="44" width="1440" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1587022303019" />
     <state x="225" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1586761294436" />
     <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1587146740291" />
     <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1586968367959" />
-    <state x="0" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588325206152" />
-    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588500891069">
+    <state x="0" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1590004028340" />
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590044310728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="425" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1586552960037" />
-    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1588500891069" />
-    <state x="522" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1587478363393">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1590044310728" />
+    <state x="522" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1590071056870">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="522" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1587478363393" />
     <state x="522" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1586549306881" />
+    <state x="522" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1590071056870" />
     <state x="462" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587032428280">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="462" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.832@0.23.1440.832" timestamp="1587032428279" />
-    <state x="447" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587652399786">
+    <state x="447" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590074258892">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="447" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.828@0.23.1440.828" timestamp="1587554452723" />
     <state x="447" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1586551030650" />
-    <state x="447" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1587652399786" />
+    <state x="447" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1590074258892" />
     <state x="472" y="265" width="615" height="461" key="#xdebugger.evaluate" timestamp="1587371689568">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -186,7 +231,7 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="497" y="199" key="FileChooserDialogImpl/0.23.1440.829@0.23.1440.829" timestamp="1586551559559" />
-    <state width="1392" height="251" key="GridCell.Tab.0.bottom" timestamp="1588456793001">
+    <state width="1392" height="319" key="GridCell.Tab.0.bottom" timestamp="1590074714950">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586966104219" />
@@ -197,8 +242,8 @@
     <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
     <state width="1377" height="251" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1587021689243" />
     <state width="1377" height="275" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
-    <state width="1392" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588456793001" />
-    <state width="1392" height="251" key="GridCell.Tab.0.center" timestamp="1588456793000">
+    <state width="1392" height="319" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590074714950" />
+    <state width="1392" height="319" key="GridCell.Tab.0.center" timestamp="1590074714950">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586966104218" />
@@ -209,8 +254,8 @@
     <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
     <state width="1377" height="251" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1587021689242" />
     <state width="1377" height="275" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
-    <state width="1392" height="251" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588456793000" />
-    <state width="1392" height="251" key="GridCell.Tab.0.left" timestamp="1588456793000">
+    <state width="1392" height="319" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590074714950" />
+    <state width="1392" height="319" key="GridCell.Tab.0.left" timestamp="1590074714949">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586966104217" />
@@ -221,8 +266,8 @@
     <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587149033541" />
     <state width="1377" height="251" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1587021689241" />
     <state width="1377" height="275" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1587021699845" />
-    <state width="1392" height="251" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588456793000" />
-    <state width="1392" height="251" key="GridCell.Tab.0.right" timestamp="1588456793001">
+    <state width="1392" height="319" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590074714949" />
+    <state width="1392" height="319" key="GridCell.Tab.0.right" timestamp="1590074714950">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586966104219" />
@@ -233,8 +278,8 @@
     <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587149033542" />
     <state width="1377" height="251" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1587021689242" />
     <state width="1377" height="275" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1587021699846" />
-    <state width="1392" height="251" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588456793001" />
-    <state width="1315" height="275" key="GridCell.Tab.1.bottom" timestamp="1587652109055">
+    <state width="1392" height="319" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590074714950" />
+    <state width="1392" height="275" key="GridCell.Tab.1.bottom" timestamp="1590046108239">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586966106295" />
@@ -244,8 +289,8 @@
     <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587223721090" />
     <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
     <state width="1377" height="275" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587021701731" />
-    <state width="1315" height="275" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587652109055" />
-    <state width="1315" height="275" key="GridCell.Tab.1.center" timestamp="1587652109054">
+    <state width="1392" height="275" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590046108239" />
+    <state width="1392" height="275" key="GridCell.Tab.1.center" timestamp="1590046108238">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586966106294" />
@@ -255,8 +300,8 @@
     <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1587223721089" />
     <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
     <state width="1377" height="275" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
-    <state width="1315" height="275" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587652109054" />
-    <state width="1315" height="275" key="GridCell.Tab.1.left" timestamp="1587652109054">
+    <state width="1392" height="275" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1590046108238" />
+    <state width="1392" height="275" key="GridCell.Tab.1.left" timestamp="1590046108238">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586966106293" />
@@ -266,8 +311,8 @@
     <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1587223721088" />
     <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1587149035313" />
     <state width="1377" height="275" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
-    <state width="1315" height="275" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587652109054" />
-    <state width="1315" height="275" key="GridCell.Tab.1.right" timestamp="1587652109054">
+    <state width="1392" height="275" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1590046108238" />
+    <state width="1392" height="275" key="GridCell.Tab.1.right" timestamp="1590046108238">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="393" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586966106295" />
@@ -277,12 +322,12 @@
     <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1587223721090" />
     <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1587149035314" />
     <state width="1377" height="275" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1587021701730" />
-    <state width="1315" height="275" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587652109054" />
+    <state width="1392" height="275" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1590046108238" />
     <state x="218" y="77" key="SettingsEditor" timestamp="1586965635793">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="218" y="77" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1586965635792" />
-    <state x="376" y="204" width="667" height="515" key="find.popup" timestamp="1588235512640">
+    <state x="376" y="204" width="667" height="515" key="find.popup" timestamp="1590074436356">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="376" y="194" width="667" height="486" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1586944580481" />
@@ -290,7 +335,11 @@
     <state x="376" y="194" width="667" height="488" key="find.popup/0.23.1440.830@0.23.1440.830" timestamp="1587146801715" />
     <state x="376" y="194" width="667" height="490" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1587148607487" />
     <state x="376" y="195" width="667" height="490" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1587021899889" />
-    <state x="376" y="204" width="667" height="515" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1588235512640" />
+    <state x="376" y="204" width="667" height="515" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1590074436356" />
+    <state x="474" y="409" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590069862520">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="474" y="409" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1590069862520" />
     <state x="395" y="176" width="670" height="676" key="search.everywhere.popup" timestamp="1586545686199">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -300,18 +349,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/TestConfiguration.java</url>
-          <line>23</line>
+          <line>20</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -325,49 +364,9 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DevEnvironment.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/CompanyApp.java</url>
-          <line>86</line>
+          <line>83</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/BcdService.java</url>
@@ -375,34 +374,35 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DefaultEnvironment.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/helpers/GenericsHelper.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/DevEnvironment.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/config/WebDriverConfiguration.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/UiFacade.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/translationi18n/GoogleSheetsDocument.java</url>
           <line>62</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/App.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java</url>
+          <line>23</line>
+          <properties field="i18n" class="com.automation.web.steps.MainGooglePage" />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

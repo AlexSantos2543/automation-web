@@ -1,6 +1,6 @@
-package com.automation.web.pageobjects.factory;
+package com.automation.web.pageobjects;
 
-import com.automation.web.pageobjects.UiFacade;
+
 import com.automation.web.stereotype.LazyPrototype;
 
 /**

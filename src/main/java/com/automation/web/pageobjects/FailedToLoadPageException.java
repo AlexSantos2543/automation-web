@@ -1,6 +1,4 @@
-package com.automation.web.exceptions;
-
-import com.automation.web.pageobjects.PageObject;
+package com.automation.web.pageobjects;
 
 public class FailedToLoadPageException extends RuntimeException {
 

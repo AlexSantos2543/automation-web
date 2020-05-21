@@ -88,6 +88,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/app/ValidateElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/app/WebApp.java">
           <value>
             <set />
@@ -213,12 +218,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/interaction/WebElementInteraction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/interaction/WebScroll.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/page/LoginSsoPage.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/page/LoginSsoPageUi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/AnyDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/CompanyApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/ElementDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/ElementFieldDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/FormattedElementLocator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/Fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/FragmentFieldDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/LocaatingFragmentListHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/LoginSsoPageValidator.java">
           <value>
             <set />
           </value>
@@ -234,6 +299,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/Validator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/WebApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/decorator/AnyFieldDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/decorator/FragmentFieldDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/decorator/LocatingFragmentListHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/FieldInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/FieldInitializerMobile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/FieldInitializerWeb.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pageobjects/factory/FormattedElementLocator.java">
           <value>
             <set />
           </value>
@@ -258,6 +363,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/LoginSsoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/LoginSsoPageUi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/LoginSsoPageValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/googlehome/LoginSsoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/googlehome/LoginSsoPageUi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/pages/google/googlehome/LoginSsoPageValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/setup/Hook.java">
           <value>
             <set />
@@ -268,12 +403,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/CucumberTypeRegistryConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/LoginSteps.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MainGooglePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/MyStepdefs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/automation/web/steps/TypeRegistryConfiguration.java">
           <value>
             <set />
           </value>
@@ -504,6 +654,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../bcd-automation-web/src/main/java/com/tdl/bcd/automation/web/config/TestConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bcd-automation-web/src/main/java/com/tdl/bcd/automation/web/steps/user/AccountsSteps.java">
           <value>
             <set />
           </value>

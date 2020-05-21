@@ -1,9 +1,7 @@
 package com.automation.web.config;
 
-import com.automation.web.app.App;
 import cucumber.api.java.Before;
 import lombok.extern.java.Log;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.test.context.ContextConfiguration;
 

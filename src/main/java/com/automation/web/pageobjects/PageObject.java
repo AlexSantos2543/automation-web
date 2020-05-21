@@ -1,21 +1,20 @@
 package com.automation.web.pageobjects;
 
+import java.lang.annotation.Annotation;
+import java.lang.reflect.Field;
+import java.lang.reflect.Type;
+import java.util.Arrays;
+
 import com.automation.web.app.App;
 import com.automation.web.helpers.GenericsHelper;
-import com.automation.web.interaction.Url;
 import com.automation.web.stereotype.LazyPrototype;
 import com.automation.web.stereotype.LazySingleton;
 import org.openqa.selenium.SearchContext;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import java.lang.annotation.Annotation;
-import java.lang.reflect.Field;
-import java.lang.reflect.Type;
-import java.util.Arrays;
-
 /**
- * Page object provides an abstract interface to a com.alex.page or a section of the com.alex.page and translates
+ * Page object provides an abstract interface to a page or a section of the page and translates
  * business terms to UiFacade element interactions.
  *
  * Page object defines actions in general terms, e.g. `po.login(username, password)` and implements
@@ -30,6 +29,9 @@ public abstract class PageObject<U extends UiFacade, V extends Validator>
     @Autowired
     protected App app;
 
+    /**
+     * @deprecated use "ui" field instead of "map"
+     */
     @Deprecated
     @Autowired
     protected U map;
@@ -56,7 +58,7 @@ public abstract class PageObject<U extends UiFacade, V extends Validator>
 
         Class[] expectedAnnotations = new Class[]{LazySingleton.class, LazyPrototype.class};
 
-        // check that com.alex.page object, map, and validator are annotated with the same spring annotation
+        // check that page object, map, and validator are annotated with the same spring annotation
         // TODO: add link to confluence to exception messages
         for (Class<? extends Annotation> annotation : expectedAnnotations) {
             if (this.getClass().isAnnotationPresent(annotation) &&
@@ -86,7 +88,7 @@ public abstract class PageObject<U extends UiFacade, V extends Validator>
      */
     @Override
     public void afterPropertiesSet() {
-        // TODO: instead of autowiring initialize com.alex.page objects with proxies
+        // TODO: instead of autowiring initialize page objects with proxies
         try {
             Field mapField = Validator.class.getDeclaredField("map");
             mapField.setAccessible(true);
@@ -96,22 +98,22 @@ public abstract class PageObject<U extends UiFacade, V extends Validator>
             uiField.setAccessible(true);
             uiField.set(validator, ui);
         } catch (ReflectiveOperationException e) {
-            throw new RuntimeException("Could not instantiate the com.alex.page object!", e);
+            throw new RuntimeException("Could not instantiate the page object!", e);
         }
     }
 
     /**
      * Ensure {@link Url} annotation is present and extract its value
      *
-     * @param pageClass com.alex.page to get URL from (subclass of {@link PageObject})
-     * @return com.alex.page url
+     * @param pageClass page to get URL from (subclass of {@link PageObject})
+     * @return page url
      */
     public static String getUrl(Class<? extends PageObject> pageClass) {
         if (pageClass.isAnnotationPresent(Url.class)) {
             return pageClass.getDeclaredAnnotation(Url.class).value();
         } else {
             throw new RuntimeException(String.format(
-                    "Page object %s has no @com.automation.web.interaction.Url annotation!", pageClass.getSimpleName()));
+                    "Page object %s has no @Url annotation!", pageClass.getSimpleName()));
         }
     }
 
@@ -134,4 +136,3 @@ public abstract class PageObject<U extends UiFacade, V extends Validator>
         ui.init();
     }
 }
-

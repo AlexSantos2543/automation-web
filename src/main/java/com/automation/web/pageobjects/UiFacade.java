@@ -1,18 +1,38 @@
 package com.automation.web.pageobjects;
 
+import java.lang.reflect.Field;
+
 import com.automation.web.config.Wait;
+import com.automation.web.exceptions.TimeoutException;
 import com.automation.web.interaction.Alignment;
 import com.automation.web.interaction.ElementInteraction;
 import com.automation.web.interaction.Scroll;
 import com.automation.web.pageobjects.factory.FieldInitializer;
 import com.automation.web.stereotype.LazyPrototype;
 import lombok.extern.java.Log;
-import org.openqa.selenium.*;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import java.lang.reflect.Field;
-
+/**
+ * Provides a facade to access UI elements in a uniform way across platforms.
+ *
+ * This bean is initialized after construction:
+ *
+ * - Element lookup context is set to the available WebDriver bean;
+ *
+ * - Fields of type {@link WebElement} are decorated;
+ *
+ * - Fields of type {@link Fragment} are decorated;
+ *
+ * - "waitToLoad" method is called.
+ *
+ * Inheriting classes annotated with {@link LazyPrototype} must be initialized manually.
+ */
 @Log
 public abstract class UiFacade implements InitializingBean {
 
@@ -20,15 +40,6 @@ public abstract class UiFacade implements InitializingBean {
 
     @Autowired
     protected FieldInitializer fieldInitializer;
-
-    @Autowired
-    protected ElementInteraction interaction;
-
-    @Autowired
-    protected Scroll scroll;
-
-    @Autowired
-    protected Wait wait;
 
     /**
      * Selenium WebDriver and wrapped element
@@ -43,6 +54,13 @@ public abstract class UiFacade implements InitializingBean {
     public WebElement getElement() {
         return element;
     }
+
+    @Autowired
+    protected ElementInteraction interaction;
+    @Autowired
+    protected Wait wait;
+    @Autowired
+    protected Scroll scroll;
 
     @Override
     public void afterPropertiesSet() {
@@ -86,7 +104,7 @@ public abstract class UiFacade implements InitializingBean {
         this.context = context;
 
         fieldInitializer.initFields(context, this);
-        this.waitToLoad(); //TODO: log an error if used with lazy prototype (slow com.alex.page loading)
+        this.waitToLoad(); //TODO: log an error if used with lazy prototype (slow page loading)
     }
 
     /**
@@ -303,4 +321,3 @@ public abstract class UiFacade implements InitializingBean {
         return this;
     }
 }
-

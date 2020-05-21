@@ -1,4 +1,4 @@
-package com.automation.web.interaction;
+package com.automation.web.pageobjects;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
